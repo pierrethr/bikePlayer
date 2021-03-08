@@ -1,0 +1,18 @@
+<controls>
+    <SliderInt_Number_of_values>
+        <name>Number of values</name>
+        <value>20</value>
+    </SliderInt_Number_of_values>
+    <SliderInt_Max_angle>
+        <name>Max angle</name>
+        <value>35</value>
+    </SliderInt_Max_angle>
+    <SliderInt_CheckInterval>
+        <name>CheckInterval</name>
+        <value>80</value>
+    </SliderInt_CheckInterval>
+    <Toggle_Blink>
+        <name>Blink</name>
+        <value>0</value>
+    </Toggle_Blink>
+</controls>
